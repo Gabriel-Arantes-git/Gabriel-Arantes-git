@@ -53,4 +53,4 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git/blob/output/github-contribution-grid-snake-dark.svg)
