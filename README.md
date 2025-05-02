@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Gabriel-Arantes-git/Gabriel-Arantes-git/output/snake.svg" alt="Snake animation" />
+
 
 
 
