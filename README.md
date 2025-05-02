@@ -53,7 +53,8 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Arantes-gitb&repo=Gabriel-Arantes-gitb&theme=react)](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Arantes-git&repo=Gabriel-Arantes-git&theme=react)](https://github.com/Gabriel-Arantes-git/Gabriel-Arantes-git)
+
 
