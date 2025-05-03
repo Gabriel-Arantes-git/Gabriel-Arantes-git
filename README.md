@@ -3,7 +3,7 @@
 - 💼 Estagiário de TI na **Tributech**
 - 🔍 Busco Experiências para aplicar meus aprendizados fora da teoria, aplicando-as em um contexto real
 ## Conhecimentos
-- API Rest
+- Criação e Testes de API's Rest
 - Pentaho Integration
 - Diagramas UML
 ## Ferramentas
