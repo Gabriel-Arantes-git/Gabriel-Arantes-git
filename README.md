@@ -1,3 +1,7 @@
+![Banner LinkedIn](Banner.png)
+<p align="center">
+  <img src="Banner.png" alt="Banner LinkedIn" />
+</p>
 ## Sobre Mim
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
 - 💼 Estagiário de TI na **Tributech**
