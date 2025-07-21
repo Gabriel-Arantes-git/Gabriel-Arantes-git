@@ -8,6 +8,7 @@
 - Criação e Testes de API's Rest via Postman
 - Pentaho Integration
 - Diagramas UML
+- JasperReports
 ## Ferramentas
 ### 🔹Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Arantes-git&layout=compact&theme=github_dark)
