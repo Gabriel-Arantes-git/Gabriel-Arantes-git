@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**
-- 💼 Estagiário de TI na **Tributech**
+- 💼 Funcionário Efetivado em Engenheiro de Dados na **Tributech**
 - 🔍 Busco Experiências para aplicar meus aprendizados fora da teoria, aplicando-as em um contexto real
 ## Conhecimentos
 - Criação e Testes de API's Rest via Postman
