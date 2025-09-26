@@ -13,7 +13,7 @@
 ## Ferramentas
 ### 🔹Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Arantes-git&layout=compact&theme=github_dark)
-
+![Gabriel-Arantes-git's Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Arantes-git&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ### 🔹Desenvolvimento Back-End
 
 <p>
