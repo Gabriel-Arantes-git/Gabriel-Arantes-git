@@ -1,5 +1,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="icon" height="43" style=" position: relative; justify-self:center; align-self:center; margin-right: 8px;" />
+  </h1>
+<h1 align="center">
   Olá, eu sou o Gabriel
 </h1>
 
