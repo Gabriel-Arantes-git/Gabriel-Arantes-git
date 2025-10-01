@@ -1,14 +1,12 @@
-<!-- ===== Hero Banner ===== -->
-<p align="center">
-  <img src="Banner.png" alt="Banner LinkedIn" width="100%" />
-</p>
-
 <h1 align="center">
   Olá, eu sou o Gabriel
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="icon" height="32" style="vertical-align: middle; margin-left: 8px;" />
 </h1>
 
-<!-- ===== Sobre Mim (2 colunas: dados + imagem3) ===== -->
+<p align="center">
+  <img src="Banner.png" alt="Banner LinkedIn" width="100%" />
+</p>
+
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -41,7 +39,6 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Arantes-git&layout=compact&theme=github_dark" alt="Top Langs" height="140" />
      <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Arantes-git&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="140" />
    </div>
-<!-- ===== Tecnologias (2 colunas: ícones + imagem2) ===== -->
 <h2>🛠️ Tecnologias</h2>
 <table>
   <tr>
@@ -58,8 +55,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36" />
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36" />
-     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="36" height="36" /> -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="36" height="36" /> 
    </p>
 
    <h3>🔹 Banco de Dados & Ferramentas</h3>
@@ -77,7 +73,6 @@
   </tr>
 </table>
 
-<!-- ===== Contato ===== -->
 <h2>📬 Contato</h2>
 <p>
   <a href="https://wa.me/554498794774" target="_blank">
