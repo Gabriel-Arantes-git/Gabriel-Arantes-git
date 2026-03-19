@@ -75,11 +75,9 @@ Sou movido por **contexto real** — não basta aprender, quero aplicar, medir i
 | Área | Habilidade |
 |------|-----------|
 | 🏗️ Desenvolvimento | Full Stack — Front, Back, Integração |
-| 🔗 APIs | Criação e testes com Postman (REST) |
-| 📊 ETL / BI | Pentaho Data Integration · JasperReports |
 | 🗃️ Banco de Dados | PostgreSQL · DBeaver · Modelagem |
-| 📐 Arquitetura | UML · Diagramação · Requisitos |
-| ⚙️ Infra | Kafka · RabbitMQ · Docker |
+| 📐 Arquitetura | System Design · Diagramação · Requisitos |
+| ⚙️ Infra | Kafka · RabbitMQ · Docker · Nuvem |
  
 </div>
  
