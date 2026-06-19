@@ -1,0 +1,66 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Stack tecnológico">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#211F1A"/>
+      <stop offset="100%" stop-color="#181712"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9C7B3E"/>
+      <stop offset="100%" stop-color="#E6C988"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window chrome -->
+  <rect x="0" y="0" width="1280" height="420" rx="16" fill="url(#cardbg)" stroke="#3A352C" stroke-width="1.5"/>
+  <rect x="0" y="0" width="1280" height="44" rx="16" fill="#16150F"/>
+  <rect x="0" y="30" width="1280" height="14" fill="#16150F"/>
+  <g>
+    <circle cx="28" cy="22" r="6" fill="#C9A86A" opacity="0.85"/>
+    <circle cx="50" cy="22" r="6" fill="#7A6A4F" opacity="0.7"/>
+    <circle cx="72" cy="22" r="6" fill="#3A352C"/>
+  </g>
+  <text x="640" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#9C8E72">gabriel@dev: ~/stack</text>
+
+  <!-- terminal command -->
+  <text x="34" y="84" font-family="'JetBrains Mono', monospace" font-size="14" fill="#8A7A5C">
+    <tspan fill="#C9A86A">$</tspan> stack --list --proficiency
+  </text>
+
+  <!-- columns -->
+  <g font-family="'JetBrains Mono', monospace">
+    <!-- Backend -->
+    <text x="34" y="128" font-size="13" fill="#E6C988" font-weight="700">▸ BACKEND</text>
+    <g font-size="12" fill="#ECE6DB">
+      <text x="50" y="156">Java</text>          <rect x="200" y="146" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="300" dur="1.1s" begin="0.2s" fill="freeze"/></rect><rect x="200" y="146" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="50" y="182">Spring Boot</text>   <rect x="200" y="172" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="285" dur="1.1s" begin="0.3s" fill="freeze"/></rect><rect x="200" y="172" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="50" y="208">Node.js</text>       <rect x="200" y="198" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="210" dur="1.1s" begin="0.4s" fill="freeze"/></rect><rect x="200" y="198" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="50" y="234">REST APIs</text>     <rect x="200" y="224" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="290" dur="1.1s" begin="0.5s" fill="freeze"/></rect><rect x="200" y="224" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+    </g>
+
+    <!-- Frontend -->
+    <text x="540" y="128" font-size="13" fill="#E6C988" font-weight="700">▸ FRONTEND</text>
+    <g font-size="12" fill="#ECE6DB">
+      <text x="556" y="156">Angular</text>      <rect x="700" y="146" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="285" dur="1.1s" begin="0.3s" fill="freeze"/></rect><rect x="700" y="146" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="556" y="182">TypeScript</text>   <rect x="700" y="172" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="280" dur="1.1s" begin="0.4s" fill="freeze"/></rect><rect x="700" y="172" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="556" y="208">React</text>        <rect x="700" y="198" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="215" dur="1.1s" begin="0.5s" fill="freeze"/></rect><rect x="700" y="198" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+      <text x="556" y="234">SCSS</text>         <rect x="700" y="224" width="0" height="9" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="250" dur="1.1s" begin="0.6s" fill="freeze"/></rect><rect x="700" y="224" width="300" height="9" rx="4" fill="#ffffff" opacity="0.05"/>
+    </g>
+
+    <!-- Data & Infra row -->
+    <text x="34" y="288" font-size="13" fill="#E6C988" font-weight="700">▸ DATA &amp; INFRA</text>
+    <g font-size="11.5" fill="#1C1B19">
+      <g><rect x="50" y="304" width="118" height="30" rx="15" fill="#C9A86A"/><text x="109" y="324" text-anchor="middle">PostgreSQL</text></g>
+      <g><rect x="180" y="304" width="86" height="30" rx="15" fill="#C9A86A"/><text x="223" y="324" text-anchor="middle">MySQL</text></g>
+      <g><rect x="278" y="304" width="78" height="30" rx="15" fill="#C9A86A"/><text x="317" y="324" text-anchor="middle">Kafka</text></g>
+      <g><rect x="368" y="304" width="108" height="30" rx="15" fill="#C9A86A"/><text x="422" y="324" text-anchor="middle">RabbitMQ</text></g>
+      <g><rect x="488" y="304" width="84" height="30" rx="15" fill="#C9A86A"/><text x="530" y="324" text-anchor="middle">Docker</text></g>
+      <g><rect x="584" y="304" width="68" height="30" rx="15" fill="#C9A86A"/><text x="618" y="324" text-anchor="middle">Linux</text></g>
+      <g><rect x="664" y="304" width="74" height="30" rx="15" fill="#C9A86A"/><text x="701" y="324" text-anchor="middle">Jasper</text></g>
+      <g><rect x="750" y="304" width="100" height="30" rx="15" fill="#C9A86A"/><text x="800" y="324" text-anchor="middle">Git/GitLab</text></g>
+    </g>
+
+    <!-- footer line -->
+    <text x="34" y="372" font-size="12" fill="#8A7A5C"><tspan fill="#C9A86A">→</tspan> full stack real · do banco ao deploy · foco em escalabilidade</text>
+    <text x="34" y="398" font-size="11" fill="#5C5444">process finished with exit code 0 ✓</text>
+  </g>
+</svg>

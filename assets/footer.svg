@@ -1,0 +1,33 @@
+<svg width="1280" height="140" viewBox="0 0 1280 140" xmlns="http://www.w3.org/2000/svg" fill="none" role="img">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#26221A"/>
+      <stop offset="60%" stop-color="#1C1B19"/>
+      <stop offset="100%" stop-color="#16150F"/>
+    </linearGradient>
+    <linearGradient id="fgold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9C7B3E"/>
+      <stop offset="50%" stop-color="#E6C988"/>
+      <stop offset="100%" stop-color="#9C7B3E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- wave -->
+  <path d="M0,50 C200,20 400,70 640,45 C880,20 1080,65 1280,42 L1280,140 L0,140 Z" fill="url(#fbg)"/>
+  <path d="M0,50 C200,20 400,70 640,45 C880,20 1080,65 1280,42" stroke="url(#fgold)" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- code closing -->
+  <text x="640" y="98" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="16" fill="#C9A86A">
+    return <tspan fill="#ECE6DB">value</tspan>;
+  </text>
+  <text x="640" y="122" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#7A6A4F" font-style="italic">
+    sempre buscando a próxima solução
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="700" y="86" width="8" height="16" fill="#C9A86A">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

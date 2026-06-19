@@ -1,0 +1,21 @@
+COMO USAR — perfil GitHub de Gabriel Arantes
+=============================================
+
+1. Crie (ou abra) o repositório especial com o MESMO nome do seu usuário:
+   Gabriel-Arantes-git/Gabriel-Arantes-git
+   (marque "Add a README" se for novo)
+
+2. Suba estes arquivos mantendo a estrutura:
+   /README.md
+   /assets/header.svg
+   /assets/divider.svg
+   /assets/stack.svg
+   /assets/footer.svg
+
+3. Pronto. O README aparece no topo do seu perfil.
+   Os SVGs animam nativo (cursor piscando, barras preenchendo, onda pulsando).
+
+OBS:
+- Os widgets de stats (github-readme-stats) carregam por URL externa, já configurados na sua paleta.
+- O diagrama Mermaid renderiza nativo no GitHub.
+- Confira o número do WhatsApp no README (5544991227490).
