@@ -15,9 +15,7 @@
 <br/>
 
 <!-- ░░░░░░░░░░ WHOAMI ░░░░░░░░░░ -->
-<table>
-<tr>
-<td width="62%" valign="top">
+
 
 ```typescript
 const gabriel: SoftwareEngineer = {
@@ -30,20 +28,6 @@ const gabriel: SoftwareEngineer = {
 };
 ```
 
-</td>
-<td width="38%" valign="top">
-
-<br/>
-
-> **`>` interseção entre dados, dev e produto.**
->
-> Construo soluções que nascem de contexto real: requisito → arquitetura → implementação → valor mensurável.
->
-> `◆` foco em **escalabilidade** e **boas práticas**.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt=""/>
